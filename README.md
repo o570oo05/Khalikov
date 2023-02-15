@@ -16,7 +16,7 @@
         <li>4</li>
         <li>5</li>
     </ul>
-    <p><a href="sample.html"><img src="images/sample.gif" width="50" height="50" alt="Пример"></a></p>
+    <img src="images/sample.gif" width="50" height="50" alt="Пример">
     <table>
         <tr>
             <td>
