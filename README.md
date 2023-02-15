@@ -16,7 +16,7 @@
         <li>4</li>
         <li>5</li>
     </ul>
-    img src="https://bitpay.su/uploads/posts/2016-07/1468036666_1467832296_head_bg.png"
+    <p><a href="sample.html"><img src="images/sample.gif" width="50" height="50" alt="Пример"></a></p>
     <table>
         <tr>
             <td>
@@ -53,4 +53,3 @@
     </table>
 </body>
 </html>
-Изменения внесены 24.10.2022
