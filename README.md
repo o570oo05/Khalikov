@@ -16,7 +16,7 @@
         <li>4</li>
         <li>5</li>
     </ul>
-    img src=""
+    img src="https://bitpay.su/uploads/posts/2016-07/1468036666_1467832296_head_bg.png"
     <table>
         <tr>
             <td>
